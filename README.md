@@ -1,7 +1,7 @@
 ### Hello  👋
 ###  Open and friendly.
 ###  Love to learn new things.
-###  Enjoy working with ReactJS  and React Native ❤ 
+###  Enjoy working with ReactJS, React Native ❤,Odoo, Python, AngularJs...  
 
 ###  Projects :
 - App Học GPLX (public in AppStore and Chplay)
